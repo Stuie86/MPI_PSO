@@ -11,3 +11,5 @@ This repository was created as a learning resource for members of Daresbury labs
 * a simple implementation of the MPI parallelisation paradigm
 * a simple implementation of Particle Swarm Optimisation
 
+
+
